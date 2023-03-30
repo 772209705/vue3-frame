@@ -1,4 +1,11 @@
-# xmind-case-change
+## 项目简洁，开箱即用,使用整套主流框架
+### vue3框架
+### aixos请求响应封装
+### router路由控制封装
+### vuex状态管理封装
+### Element-plus框架，
+
+用了ChatGPT ai写了一个通用星空流星组件，在登录页面有使用实例。
 
 ## Project setup
 ```
