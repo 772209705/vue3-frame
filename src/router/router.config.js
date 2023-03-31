@@ -2,7 +2,7 @@
 const routes = [
   {
     path: '/',
-    redirect: "/index",
+    redirect: "index",
   },
   {
     path: '/index',
