@@ -1,0 +1,8 @@
+# 忽略所有的 .DS_Store 文件
+.DS_Store
+
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略 log 文件夹以及其中的所有文件
+log/*

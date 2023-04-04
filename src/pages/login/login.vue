@@ -72,6 +72,10 @@ export default {
 </script>
 
 <style>
+html, body {
+  margin: 0;
+}
+
 .login {
   display: flex;
   justify-content: center;
@@ -79,6 +83,11 @@ export default {
   position: relative;
   width: 100vw;
   height: 100vh;
+  overflow: hidden;
+}
+
+.login::-webkit-scrollbar {
+  display: none;
 }
 
 #login-button{
